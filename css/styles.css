@@ -1,0 +1,53 @@
+/* Estilos generales */
+body {
+  background-color: #ffffff;
+  font-family: Arial, sans-serif;
+}
+
+/* Barra de navegación */
+.navbar {
+  background-color: #6f42c1 !important;
+}
+
+.navbar-brand, .nav-link {
+  color: rgb(255, 255, 255) !important;
+}
+
+.navbar-toggler-icon {
+  background-color: rgb(255, 255, 255);
+}
+
+/* Carrousel con borde */
+.carousel-inner img {
+  object-fit: cover;
+  height: 500px;
+}
+
+.container .border {
+  border-radius: 10px;
+  border-color: #6f42c1 !important;
+}
+
+/* Tarjetas de los coches */
+.card {
+  margin-top: 20px;
+}
+
+.card-title {
+  color: #6f42c1;
+  font-weight: bold;
+}
+
+.card-text {
+  font-size: 14px;
+}
+
+/* Ajustes en el layout de la página */
+.row {
+  margin-top: 30px;
+}
+
+/* Estilo de fondo */
+.container {
+  margin-top: 50px;
+}
